@@ -18,3 +18,14 @@ self.addEventListener('install', function(e) {
     })
   );
 });
+
+// remove old cache / updating cache storage
+
+self.addEventListener('fetch', function(e) {
+  console.log(e.request);
+  e.respondWith(
+    caches.match(e.request).then(function(response) {
+      return response || fetch(e.request);
+    })
+  );
+});
