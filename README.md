@@ -13,13 +13,13 @@ Follow these step-by-step instructions to run the page.
 
 1. First, you need to have Python 3 installed.
 
-  Open your Command Line and type in `python -V`.
+&nbsp;&nbsp;Open your Command Line and type in `python -V`.
 
-  Does it display something of the form `Python 3.x.y`?
+&nbsp;&nbsp;Does it display something of the form `Python 3.x.y`?
 
-  If it does, skip to step 2.
+&nbsp;&nbsp;&nbsp;&nbsp;If it does, skip to step 2.
 
-  If it does not, visit this site and follow the instructions it provides to download Python 3 into your machine: [https://www.python.org/downloads](https://www.python.org/downloads).
+&nbsp;&nbsp;&nbsp;&nbsp;If it does not, visit this site and follow the instructions it provides to download Python 3 into your machine: [https://www.python.org/downloads](https://www.python.org/downloads).
 
 
 2. Next, on your web browser, navigate to this page: [https://github.com/call900913/fend-rchristy-project5](https://github.com/call900913/fend-rchristy-project5).
