@@ -4,12 +4,12 @@
 
 ## Project Overview: Stage 1
 
-This project is a restaurant reviews website. Initial code was provided by Udacity's team, but, according to the original codeowners, it was 'barely usable' on any device. This directory contains stage 1 of a 3-stage project.
+This project is a restaurant reviews website. Initial code was provided by Udacity's team, but, according to the original codeowners, it was 'barely usable' on any device 🙁. This directory contains stage 1 of a 3-stage project.
 
 
 ## Instructions
 
-Follow these step-by-step instructions to run the page.
+Follow these step-by-step instructions to run the page 🙂.
 
 ### Step 1
 First, you need to have Python 3 installed.
