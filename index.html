@@ -15,14 +15,14 @@
     </nav>
   </header>
 
-  <main id="maincontent">
-    <section id="map-container">
-      <div id="map"></div>
+  <main class="maincontent" id="maincontent" role="main">
+    <section class="map-container"id="map-container" role="application" aria-label="Map">
+      <div class="map" id="map"></div>
     </section>
 
     <section>
-      <div class="filter-options">
-        <h2 class="options__h2">Filter Results</h2>
+      <div class="filter-options" role="region" aria-labelledby="filter">
+        <h2 class="options__h2" id="filter">Filter Results</h2>
 
         <select id="neighborhoods-select" name="neighborhoods" onchange="updateRestaurants()">
           <option value="all">All Neighborhoods</option>
@@ -33,7 +33,7 @@
         </select>
       </div>
 
-      <ul class="restaurants-list" id="restaurants-list"></ul>
+      <ul class="restaurants-list" id="restaurants-list" role="region" aria-label="restaurants list"></ul>
     </section>
 
   </main>
