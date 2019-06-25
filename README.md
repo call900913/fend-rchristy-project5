@@ -12,7 +12,7 @@ This project is a restaurant reviews website. Initial code was provided by Udaci
 Follow these step-by-step instructions to run the page.
 
 ### Step 1
-1. First, you need to have Python 3 installed.
+First, you need to have Python 3 installed.
 
 Open your Command Line and type in `python -V`.
 
@@ -24,16 +24,16 @@ If it does not, visit this site and follow the instructions it provides to downl
 
 
 ### Step 2
-2. Next, on your web browser, navigate to this page: [https://github.com/call900913/fend-rchristy-project5](https://github.com/call900913/fend-rchristy-project5).
+Next, on your web browser, navigate to this page: [https://github.com/call900913/fend-rchristy-project5](https://github.com/call900913/fend-rchristy-project5).
 
 ### Step 3
-3. Then, click on the green `clone or download` button, then click on `Download ZIP` to download the project into your machine.
+Then, click on the green `clone or download` button, then click on `Download ZIP` to download the project into your machine.
 
 ### Step 4
-4. Afterwards, open your command line (open Terminal if you're on a Mac).
+Afterwards, open your command line (open Terminal if you're on a Mac).
 
 ### Step 5
-5. On your command line, navigate to the project root directory, and type in `python3 -m http.server`. Then press enter.
+On your command line, navigate to the project root directory, and type in `python3 -m http.server`. Then press enter.
 
 ### Step 6
-6. Open your browser and type in `localhost:8000` in the address bar.
+Open your browser and type in `localhost:8000` in the address bar.
